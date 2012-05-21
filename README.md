@@ -10,3 +10,6 @@ To install with Git:
 Have TextMate reload its bundles, restart the application, or issue the extra command:
 
 	osascript -e 'tell app "TextMate" to reload bundles'
+
+## What's Included
+This bundle adds cursory syntax highlighting for the basics of x86 MASM assembly, including folding for `PROC` and `MACRO` definitions.
