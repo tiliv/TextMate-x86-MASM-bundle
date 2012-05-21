@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>tim.valenta@thesimpler.net</string>
+	<key>contactName</key>
+	<string>Tim Valenta</string>
+	<key>description</key>
+	<string>Language grammar and code folding for x86 MASM assembly</string>
+	<key>name</key>
+	<string>x86 MASM Assembly</string>
+	<key>uuid</key>
+	<string>84ADAEB0-D860-44F8-A92D-63B4EBB9FA53</string>
+</dict>
+</plist>
